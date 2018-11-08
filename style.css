@@ -367,6 +367,10 @@ pre {
     }
 }
 
+#stories_by_design {
+    text-align: center;
+}
+
 .anim-fade-out {
     animation-name: fade-out;
     animation-duration: 1s;
@@ -526,6 +530,10 @@ pre {
     border: 1px #e1e4e8 solid !important
 }
 
+.border-thick {
+    border: 4px #e1e4e8 solid !important
+}
+
 .border-top {
     border-top: 1px #e1e4e8 solid !important
 }
@@ -593,6 +601,10 @@ pre {
 
 .border-black-fade {
     border-color: rgba(27, 31, 35, 0.15) !important
+}
+
+.border-white {
+    border-color: #ffffff !important
 }
 
 .border-0 {
