@@ -371,6 +371,13 @@ pre {
     text-align: center;
 }
 
+.image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 .anim-fade-out {
     animation-name: fade-out;
     animation-duration: 1s;
